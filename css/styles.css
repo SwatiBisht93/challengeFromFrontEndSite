@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+
+
+div{
+    background-color: whitesmoke;
+    margin-left: 500px;
+    margin-right: 500px;
+    display: inline-block;
+    border-color: white;
+    border-style: inherit;
+    border-radius: 1cm;
+}
+span{
+    color: blue;
+}
+
+.para1{
+    display: inline-block;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+    bottom: 60px;
+}
+.para2{
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 60px;
+}
+.para3{
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 70px;
+    left: 150px;
+    font-size: 10px;
+}
+
+.img{
+margin:16px 16px 70px 16px;
+border-radius: 1cm;
+}
